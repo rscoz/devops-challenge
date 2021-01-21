@@ -18,4 +18,3 @@ Create a private github repository with your code, add [rscoz](https://github.co
 
 
 If you choose aws for this challenge, you will probably need to create a [free-tier](https://aws.amazon.com/free/) account on AWS, or use an existing one.
-\

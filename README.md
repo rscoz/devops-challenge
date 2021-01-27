@@ -17,4 +17,6 @@ Create a private github repository with your code, add [rscoz](https://github.co
 5. Tell us how to access with [curl](https://curl.haxx.se/) the public api using Bearer Authentication
 
 
+Plus: Deploy a mesh solution
+Plus plus: Export metrics, monitoring and dashboards
 If you choose aws for this challenge, you will probably need to create a [free-tier](https://aws.amazon.com/free/) account on AWS, or use an existing one.

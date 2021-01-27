@@ -22,4 +22,5 @@ Deploy a mesh solution
 
 ## Plus plus: 
 Export metrics, monitoring and dashboards
+
 If you choose aws for this challenge, you will probably need to create a [free-tier](https://aws.amazon.com/free/) account on AWS, or use an existing one.
